@@ -80,4 +80,4 @@
 </html>
 <script>
   const validUsername = "danyal";
-  const validPassword = "danyal12345";
+  const validPassword = "danyal123";
